@@ -1,7 +1,9 @@
-temporal.txt
+temporal_6.txt
+temporal_7.txt
 *.zip
 *.gz
 log/*.log
 log/*.log[0-9]
 imagenes/*
+!imagenes/*
 compilados/*[ao]
