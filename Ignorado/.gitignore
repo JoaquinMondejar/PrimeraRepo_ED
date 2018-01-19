@@ -1,0 +1,7 @@
+temporal.txt
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+imagenes/*
+compilados/*[ao]
